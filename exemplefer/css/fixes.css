@@ -1,0 +1,40 @@
+ .llistat_fitxes .fitxa{
+                float:left;
+                width: 15,668%;
+                backface-color: #fff;
+                border: 1px #ddd solid;
+                padding: 10px;
+                margin-left: 1%;
+            }
+            .llistat_fitxes .fitxa:first-of-type{
+                margin-left: 0;
+            }
+            .llistat_fitxes .img img{
+                width: 80px;
+            }
+            .llistat_fitxes .img{
+                text-align: center;
+            }
+            .llistat_fitxes h1 {
+                font-size: 125%;
+                text-align:center;
+            }
+            .llistat_fitxes .descripció {
+                height: 80px;
+                overflow: hidden;
+                font-size: 90%;
+                color: #aaa;
+                line-height: 1;
+            }
+            .llistat_fitxes .peu a {
+                text-decoration: none;
+                border: 5px #n6c solid;
+                background: #06c;
+                color: #fff;
+                border-radius: 4px;
+                display: block;
+                text-align: center;                    
+            }
+            .llistat_fitxes .peu {
+                padding: 10px 0 0;
+            }

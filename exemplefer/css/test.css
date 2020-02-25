@@ -1,0 +1,82 @@
+body {
+    margin: 0;   
+}
+div{
+    margin: 0;
+    padding: 0;
+}
+.bloc{
+    border: 1px #000 solid;
+    /*padding: 10px;*/
+    margin: 10px;
+}
+  /*margin-left: 5px;
+    margin-right: 5px;*/
+  /*#bloc1, #bloc3 {
+    margin: 10px 5px !important;
+    margin: 10px 5px 2px;
+    margin: 10px 5px 2px 20px; /*dalt dreta baix esquerra*/
+
+.blocSenseMargeLateral{ 
+margin: 10px 5px !important;
+}
+
+.ambPadding {
+   padding: 10px; 
+}
+
+.flotant {
+    width:44.8%;
+    
+}
+
+.flotant-dreta{
+    float: right;
+    margin-left:0;
+}
+.flotant-esquerra{
+    float: left;
+    margin-right:0;
+}
+.banner-fix {
+    position:fixed;    
+    border:1px red dashed;
+    background-color: orange;
+    color: #fff;
+    width: 200px;
+    height: 100px;
+    overflow:hidden;
+    right:0px;
+    top:10%;
+}
+.banner-fix:hover {
+    width: 20px;
+}
+.marcVermell{
+    border-color: red;
+    border-width: 3px;
+}
+.clearfix{
+    clear:both;
+}
+
+.absolute-dreta {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.absolute-equerra {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.contenidor {
+    position: relative;
+    height: 200px;
+}
+
+
+
+
